@@ -21,7 +21,7 @@ We have test GitHUb pages (from the `gh-pages` branch) at: http://zpqrtbnk.githu
 We have an image in the README (markdown)
 ![Image](https://raw.github.com/zpqrtbnk/test-repo/master/wtf.jpg)
 
-We have an image in the README (html)
+We have an image in the README (html)wadad
 <img src="./wtf.jpg" />
 
 We have an image in the README (more html)
